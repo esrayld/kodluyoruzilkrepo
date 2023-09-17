@@ -12,7 +12,8 @@ Bu repo [Kodluyoruz](https://academy.patika.dev/tr/courses/git/odev1) Front-End 
 '''bash
 https://github.com/esrayld/kodluyoruzilkrepo.git
 '''
-##Usage
+
+## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
